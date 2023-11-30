@@ -1,1 +1,1 @@
-# data
+Converts Celsius to Fahrenheit
